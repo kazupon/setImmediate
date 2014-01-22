@@ -1,0 +1,9 @@
+{
+  "name": "setImmediate",
+  "repo": "kazupon/setImmediate",
+  "version": "0.1.0",
+  "scripts": [
+    "setImmediate.js"
+  ],
+  "main": "setImmediate.js"
+}
